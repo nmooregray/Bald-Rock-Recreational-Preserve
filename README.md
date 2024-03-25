@@ -8,4 +8,4 @@ Heres a screenshot of it!
 
 *[Bald Rock: Point Cloud](https://www.youtube.com/watch?v=gyALwbH6kuI)*
 
-[Here's](http://127.0.0.1:5500/viewer/index.html) a link to an interactive map online!
+[Here's](http://127.0.0.1:5500/viewer/index.html) a link to an interactive map where you can explore and play with even more tools!
